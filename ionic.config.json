@@ -1,0 +1,7 @@
+{
+  "name": "006-app-intents",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
