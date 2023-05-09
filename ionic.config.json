@@ -1,5 +1,5 @@
 {
-  "name": "006-app-intents",
+  "name": "Intents Test",
   "integrations": {
     "capacitor": {}
   },
