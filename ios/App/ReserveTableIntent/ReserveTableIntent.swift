@@ -9,8 +9,7 @@ struct ReserveTableIntent: AppIntent {
     
     @MainActor
     func perform() async throws -> some IntentResult {
-        return .result(
-            
+        return .result(            
             view: ReserveTableIntentView()
         )
     }
